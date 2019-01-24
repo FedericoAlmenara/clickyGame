@@ -1,31 +1,31 @@
 [  {
     "id": 1,
-    "image": "../public/assets/images/Friendsphoebe.jpg",
+    "image": "assets/images/Friendsphoebe.jpg",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "../public/assets/images/Matt_LeBlanc_as_Joey_Tribbiani.jpg",
+    "image": "assets/images/Matt_LeBlanc_as_Joey_Tribbiani.jpg",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "../public/assets/images/Matthew_Perry_as_Chandler_Bing.jpg",
+    "image": "assets/images/Matthew_Perry_as_Chandler_Bing.jpg",
     "clicked": false
   },
   {    
     "id": 4,
-    "image": "../public/assets/images/Monica_Geller.jpg",
+    "image": "assets/images/Monica_Geller.jpg",
     "clicked": false
    },
    {
     "id": 5,
-    "image": "../public/assets/images/Rachel_Green.jpg",
+    "image": "assets/images/Rachel_Green.jpg",
     "clicked": false
    },
    {
     "id": 6,
-    "image": "../public/assets/images/Ross_Geller.jpg",
+    "image": "assets/images/Ross_Geller.jpg",
     "clicked": false
    }
 ]
